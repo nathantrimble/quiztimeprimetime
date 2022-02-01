@@ -12,3 +12,9 @@ h1 {
 body{
   background-color: salmon;
 }
+#nextq {
+
+  text-align: center;
+ border: none;
+ float:right;
+}
