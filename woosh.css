@@ -3,7 +3,7 @@
   border: 8px solid darkgreen;
   background-color: sandybrown;
   padding: 20px;
-  width: 400px;
+  width: 50%;
   margin: 25px auto;
 }
 h1 {
@@ -12,9 +12,44 @@ h1 {
 body{
   background-color: salmon;
 }
-#nextq {
-
-  text-align: center;
- border: none;
- float:right;
+button{
+  border-radius: 8px;
+  width: 50%;
+  margin: 2px;
+  background-color: #D3D3D3;
+  transition-duration: 0.4s;
+}
+#c1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+button:hover {
+  background-color: white;
+  
+}
+.false1:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.false2:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.false3:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.false4:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.false5:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
