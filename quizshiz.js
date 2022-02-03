@@ -4,7 +4,7 @@ $(document).ready(function(){
   $("#c"+n).click(function(){
 
   $("#aN"+n).text("Correct Answer!!!")
-  $("")
+  $("x")
   });
 
   $(".false"+n).click(function(){
