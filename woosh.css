@@ -24,9 +24,29 @@ button{
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+#c2:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#c3:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#c4:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+#c5:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 button:hover {
   background-color: white;
-  
+
 }
 .false1:active {
   background-color: red;
