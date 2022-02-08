@@ -1,2 +1,1 @@
-# quiztimeprimetime
-quiz app
+https://nathantrimble.github.io/quiztimeprimetime/
